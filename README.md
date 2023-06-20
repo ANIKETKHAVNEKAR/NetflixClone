@@ -24,8 +24,11 @@ Install dependencies: npm install
 Set up the database: Configure MongoDB and provide the connection details in the appropriate configuration file.
 Start the server: npm start
 Access the application: Open your web browser and visit http://localhost:3000.
+
+
 Contribution
 Contributions to the Netflix Clone project are welcome! If you would like to contribute, please follow these steps:
+1=>DEEPAK SINGH
 
 ##Fork the repository.
 Create a new branch: git checkout -b feature/your-feature-name.
@@ -34,11 +37,13 @@ Push the changes to your fork: git push origin feature/your-feature-name.
 Submit a pull request, describing the changes you have made and their purpose.
 Please ensure that your contributions align with the project's guidelines and coding standards.
 
+contri
+
 
 ##Acknowledgments
 This project is inspired by the popular streaming platform Netflix.
 We would like to express our gratitude to the open-source community for their valuable contributions and inspiration.
 Contact
-If you have any questions or suggestions regarding the Netflix Clone project, please feel free to contact us at your-email@example.com. We appreciate your feedback and support.
+If you have any questions or suggestions regarding the Netflix Clone project, please feel free to contact us at khavnekarsharda08@gmail.com. We appreciate your feedback and support.
 
 Happy streaming!
