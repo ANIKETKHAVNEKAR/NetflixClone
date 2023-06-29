@@ -6,7 +6,7 @@ COPY getform.html /usr/share/nginx/html/
 COPY getDataTable.js /usr/share/nginx/html/
 
 # Expose port 80 to allow incoming connections
-EXPOSE 80
+EXPOSE 9000
 
 # Start NGINX server when the container is launched
 CMD ["nginx", "-g", "daemon off;"]
